@@ -1,4 +1,4 @@
-# Title
+# My paper's title
 
 ## Abstract
 
